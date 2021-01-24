@@ -1,0 +1,9 @@
+D:\FPTU\CN5\C# and .Net\MyBookLibrary_v2\MyBookLibrary01\bin\Debug\netstandard2.0\MyBookLibrary01.deps.json
+D:\FPTU\CN5\C# and .Net\MyBookLibrary_v2\MyBookLibrary01\bin\Debug\netstandard2.0\MyBookLibrary01.dll
+D:\FPTU\CN5\C# and .Net\MyBookLibrary_v2\MyBookLibrary01\bin\Debug\netstandard2.0\MyBookLibrary01.pdb
+D:\FPTU\CN5\C# and .Net\MyBookLibrary_v2\MyBookLibrary01\obj\Debug\netstandard2.0\MyBookLibrary01.csprojAssemblyReference.cache
+D:\FPTU\CN5\C# and .Net\MyBookLibrary_v2\MyBookLibrary01\obj\Debug\netstandard2.0\MyBookLibrary01.AssemblyInfoInputs.cache
+D:\FPTU\CN5\C# and .Net\MyBookLibrary_v2\MyBookLibrary01\obj\Debug\netstandard2.0\MyBookLibrary01.AssemblyInfo.cs
+D:\FPTU\CN5\C# and .Net\MyBookLibrary_v2\MyBookLibrary01\obj\Debug\netstandard2.0\MyBookLibrary01.csproj.CoreCompileInputs.cache
+D:\FPTU\CN5\C# and .Net\MyBookLibrary_v2\MyBookLibrary01\obj\Debug\netstandard2.0\MyBookLibrary01.dll
+D:\FPTU\CN5\C# and .Net\MyBookLibrary_v2\MyBookLibrary01\obj\Debug\netstandard2.0\MyBookLibrary01.pdb

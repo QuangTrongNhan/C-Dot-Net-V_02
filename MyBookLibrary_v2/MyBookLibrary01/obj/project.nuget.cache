@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "gW6D7R5she7XcIgwAkiKRCcX7GuJNGiQ7+DSkxB8BtP5KNxocnNaZxIDE8vd/uPr+Dqaczm/dR8dV8/OgUQYqw==",
+  "success": true,
+  "projectFilePath": "D:\\FPTU\\CN5\\C# and .Net\\MyBookLibrary_v2\\MyBookLibrary01\\MyBookLibrary01.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pc\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\pc\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

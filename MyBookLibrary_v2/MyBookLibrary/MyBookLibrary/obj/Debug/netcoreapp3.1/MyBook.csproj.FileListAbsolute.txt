@@ -1,0 +1,16 @@
+D:\FPTU\CN5\C# and .Net\MyBookLibrary_v2\MyBookLibrary\MyBookLibrary\bin\Debug\netcoreapp3.1\MyBook.exe
+D:\FPTU\CN5\C# and .Net\MyBookLibrary_v2\MyBookLibrary\MyBookLibrary\bin\Debug\netcoreapp3.1\MyBook.deps.json
+D:\FPTU\CN5\C# and .Net\MyBookLibrary_v2\MyBookLibrary\MyBookLibrary\bin\Debug\netcoreapp3.1\MyBook.runtimeconfig.json
+D:\FPTU\CN5\C# and .Net\MyBookLibrary_v2\MyBookLibrary\MyBookLibrary\bin\Debug\netcoreapp3.1\MyBook.runtimeconfig.dev.json
+D:\FPTU\CN5\C# and .Net\MyBookLibrary_v2\MyBookLibrary\MyBookLibrary\bin\Debug\netcoreapp3.1\MyBook.dll
+D:\FPTU\CN5\C# and .Net\MyBookLibrary_v2\MyBookLibrary\MyBookLibrary\bin\Debug\netcoreapp3.1\MyBook.pdb
+D:\FPTU\CN5\C# and .Net\MyBookLibrary_v2\MyBookLibrary\MyBookLibrary\bin\Debug\netcoreapp3.1\MyBookLibrary01.dll
+D:\FPTU\CN5\C# and .Net\MyBookLibrary_v2\MyBookLibrary\MyBookLibrary\bin\Debug\netcoreapp3.1\MyBookLibrary01.pdb
+D:\FPTU\CN5\C# and .Net\MyBookLibrary_v2\MyBookLibrary\MyBookLibrary\obj\Debug\netcoreapp3.1\MyBook.csprojAssemblyReference.cache
+D:\FPTU\CN5\C# and .Net\MyBookLibrary_v2\MyBookLibrary\MyBookLibrary\obj\Debug\netcoreapp3.1\MyBook.AssemblyInfoInputs.cache
+D:\FPTU\CN5\C# and .Net\MyBookLibrary_v2\MyBookLibrary\MyBookLibrary\obj\Debug\netcoreapp3.1\MyBook.AssemblyInfo.cs
+D:\FPTU\CN5\C# and .Net\MyBookLibrary_v2\MyBookLibrary\MyBookLibrary\obj\Debug\netcoreapp3.1\MyBook.csproj.CoreCompileInputs.cache
+D:\FPTU\CN5\C# and .Net\MyBookLibrary_v2\MyBookLibrary\MyBookLibrary\obj\Debug\netcoreapp3.1\MyBook.csproj.CopyComplete
+D:\FPTU\CN5\C# and .Net\MyBookLibrary_v2\MyBookLibrary\MyBookLibrary\obj\Debug\netcoreapp3.1\MyBook.dll
+D:\FPTU\CN5\C# and .Net\MyBookLibrary_v2\MyBookLibrary\MyBookLibrary\obj\Debug\netcoreapp3.1\MyBook.pdb
+D:\FPTU\CN5\C# and .Net\MyBookLibrary_v2\MyBookLibrary\MyBookLibrary\obj\Debug\netcoreapp3.1\MyBook.genruntimeconfig.cache
