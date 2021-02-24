@@ -1,0 +1,15 @@
+D:\FPTU\CN5\C# and .Net\lab_03\lab_03\bin\Debug\netcoreapp3.1\lab_03.exe
+D:\FPTU\CN5\C# and .Net\lab_03\lab_03\bin\Debug\netcoreapp3.1\lab_03.deps.json
+D:\FPTU\CN5\C# and .Net\lab_03\lab_03\bin\Debug\netcoreapp3.1\lab_03.runtimeconfig.json
+D:\FPTU\CN5\C# and .Net\lab_03\lab_03\bin\Debug\netcoreapp3.1\lab_03.runtimeconfig.dev.json
+D:\FPTU\CN5\C# and .Net\lab_03\lab_03\bin\Debug\netcoreapp3.1\lab_03.dll
+D:\FPTU\CN5\C# and .Net\lab_03\lab_03\bin\Debug\netcoreapp3.1\lab_03.pdb
+D:\FPTU\CN5\C# and .Net\lab_03\lab_03\obj\Debug\netcoreapp3.1\lab_03.csprojAssemblyReference.cache
+D:\FPTU\CN5\C# and .Net\lab_03\lab_03\obj\Debug\netcoreapp3.1\lab_03.Form1.resources
+D:\FPTU\CN5\C# and .Net\lab_03\lab_03\obj\Debug\netcoreapp3.1\lab_03.csproj.GenerateResource.cache
+D:\FPTU\CN5\C# and .Net\lab_03\lab_03\obj\Debug\netcoreapp3.1\lab_03.AssemblyInfoInputs.cache
+D:\FPTU\CN5\C# and .Net\lab_03\lab_03\obj\Debug\netcoreapp3.1\lab_03.AssemblyInfo.cs
+D:\FPTU\CN5\C# and .Net\lab_03\lab_03\obj\Debug\netcoreapp3.1\lab_03.csproj.CoreCompileInputs.cache
+D:\FPTU\CN5\C# and .Net\lab_03\lab_03\obj\Debug\netcoreapp3.1\lab_03.dll
+D:\FPTU\CN5\C# and .Net\lab_03\lab_03\obj\Debug\netcoreapp3.1\lab_03.pdb
+D:\FPTU\CN5\C# and .Net\lab_03\lab_03\obj\Debug\netcoreapp3.1\lab_03.genruntimeconfig.cache
